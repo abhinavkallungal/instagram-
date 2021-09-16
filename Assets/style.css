@@ -295,6 +295,18 @@ padding: 0px;
         width: 100%;
         min-height: 100vh;
     }
+    nav .container .icons {
+        width: 150px;
+        
+    }
+    nav .container .icons svg{
+        width: 16px;
+        height: 16px;
+    }
+    nav .container .icons .pro img{
+        width: 20px;
+        height: auto;
+    }
 
 }
 @media only Screen and (max-width:570px){
